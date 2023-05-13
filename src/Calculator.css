@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(200, 212, 236);
+}
+.calculator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+  }
+  
+  .input-field {
+    margin-bottom: 10px;
+  }
+  
+  .button-container {
+    margin-top: 10px;
+  }
+  
+  button {
+    margin-right: 5px;
+  }
+  
